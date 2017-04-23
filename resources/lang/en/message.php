@@ -1,0 +1,26 @@
+<?php
+
+return [
+    'item_not_exist' => 'Data is not exist',
+    'delete_successfully' => 'Delete option successfully',
+    'create_successfully' => 'Create option successfully',
+    'update_successfully' => 'Update option successfully',
+    'deleting_error' => 'Delete option failed',
+    'creating_error' => 'Create option failed',
+    'updating_error' => 'Update option failed',
+    'already_member' => 'Already a member?',
+    'signup_account' => "Don't have an account?",
+    'confirm_password' => 'Confirm Password',
+    'new_password' =>  'New Password',
+    'email_address' => 'E-Mail Address',
+    'send_password_reset' => 'Send Password Reset Link',
+    'password' => 'Password',
+    'name' => 'Name',
+    'active_register' => 'Thanks for signing up with Izzi English! You must follow this link to activate your account:',
+    'whoops' => 'Whoops !',
+    'input_errors' => 'Some note !',
+    'login_error' => 'Email or Password wrong, or can my account do not active',
+    'register_active' => 'Active my account in my mail !',
+    'create_user_fail' => 'Create account is failed, please check input !',
+    'click_link_reset_password' => 'Click here to reset your password:',
+];
